@@ -1,1 +1,3 @@
 https://www.toptal.com/developers/gitignore/api/visualstudiocode,macos,node
+
+node_modules
