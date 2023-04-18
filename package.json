@@ -1,0 +1,24 @@
+{
+  "name": "skilltest-ip",
+  "version": "1.0.0",
+  "description": "- Buat repo menjadi **private dan invite training@refactory.id** sebagai collaborator.\r - Semua hasil pengerjaan diwajibkan push ke github repository pribadi berupa source code dan link repository tersebut yang dikirim.\r - Tidak diperkenankan untuk mengirim hasil pengerjaan berupa zip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fayzisme/Skilltest-IP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fayzisme/Skilltest-IP/issues"
+  },
+  "homepage": "https://github.com/fayzisme/Skilltest-IP#readme",
+  "dependencies": {
+    "@actions/core": "^1.10.0",
+    "@actions/github": "^5.1.1"
+  }
+}
